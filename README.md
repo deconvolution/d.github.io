@@ -1,2 +1,4 @@
 # Welcome to Yi Zhang's webpage.
-![profile](profile picture.jpg =30*30)
+<p align="center">
+  <img width="460" height="300" src="profile picture.jpg">
+</p>
