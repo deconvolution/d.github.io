@@ -1,4 +1,2 @@
-<p align="left">
-  <img width="20" height="20" src="profile picture.jpg"> 
-</p>
 # Welcome to Yi Zhang's webpage.
+<img align="left" width="100" height="100" src="profile picture.jpg">
